@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Azul",
+      "price": 2.99
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 2.5
+    },
+    {
+      "id": 3,
+      "name": "Teclado",
+      "price": 15.5
+    }
+  ]
+}
