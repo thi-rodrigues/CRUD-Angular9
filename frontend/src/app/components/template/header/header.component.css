@@ -1,6 +1,9 @@
 .header{
     display: flex;
     align-items: center;
+    background: #59ab92;
+    padding: 0px;
+    color: white;
 }
 
 .header a{
@@ -21,3 +24,4 @@
 .header .title-group i{
     padding-right: 25px;
 }
+
