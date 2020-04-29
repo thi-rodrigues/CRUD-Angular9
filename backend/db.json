@@ -7,13 +7,18 @@
     },
     {
       "id": 2,
-      "name": "Mouse Dell",
+      "name": "Mouse",
       "price": "29.59"
     },
     {
       "id": 3,
       "name": "Teclado",
       "price": 15.5
+    },
+    {
+      "name": "Sofá",
+      "price": "780",
+      "id": 4
     }
   ]
 }
