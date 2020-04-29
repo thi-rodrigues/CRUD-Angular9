@@ -2,13 +2,13 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta Azul",
-      "price": 2.99
+      "name": "Caneta Vermelha",
+      "price": "1.99"
     },
     {
       "id": 2,
-      "name": "Mouse",
-      "price": 2.5
+      "name": "Mouse Dell",
+      "price": "29.59"
     },
     {
       "id": 3,

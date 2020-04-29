@@ -1,3 +1,16 @@
 table {
     width: 100%;
 }
+
+.edit {
+    align-items: center;
+}
+.edit > i{
+    color: #648a65;
+    margin-right: 15px;
+}
+
+.delete > i{
+    color: #ce0c06;
+}
+
