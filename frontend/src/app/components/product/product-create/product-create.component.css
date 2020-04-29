@@ -4,5 +4,11 @@ form {
 }
 
 button {
+    background-color: #a00701;
+    color: white;
+}
+#cor{
     margin: 15px 15px 0 0;
+    background-color: #648a65;
+    color: white;
 }

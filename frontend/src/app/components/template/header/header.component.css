@@ -1,9 +1,10 @@
 .header{
     display: flex;
     align-items: center;
-    background: #59ab92;
-    padding: 0px;
-    color: white;
+    background:#DD0031;
+    width: auto;
+    color: rgb(255, 255, 255);
+    border-radius: 0 0 10px 10px;
 }
 
 .header a{
@@ -13,8 +14,8 @@
 }
 
 .header .logo{
-    max-height: 83px;
-
+    max-height: 60px;
+    padding: 0 5px 0 10px;
 }
 
 .header .title-group{

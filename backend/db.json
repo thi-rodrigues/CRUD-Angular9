@@ -16,14 +16,9 @@
       "price": 15.5
     },
     {
-      "name": "Veio do Formuário",
-      "price": "9.99",
+      "name": "Grafite",
+      "price": "12.56",
       "id": 4
-    },
-    {
-      "name": "Tv Samsung",
-      "price": "1998.69",
-      "id": 5
     }
   ]
 }
